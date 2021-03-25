@@ -1,19 +1,19 @@
-#customers {
+#fooditem {
   font-family: "Times New Roman", Times, serif;
   border-collapse: collapse;
   width: 50%;
 }
 
-#customers td, #customers th {
+#fooditem td, #fooditem th {
   border: 1px solid #7EB1D7;
   padding: 8px;
 }
 
-#customers tr:nth-child(even){background-color: #98DDDE;}
+#fooditem tr:nth-child(even){background-color: #98DDDE;}
 
-#customers tr:hover {background-color: #7EB1D7;}
+#fooditem tr:hover {background-color: #7EB1D7;}
 
-#customers th {
+#fooditem th {
   padding-top: 12px;
   padding-bottom: 12px;
   text-align: left;
